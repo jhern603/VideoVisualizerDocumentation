@@ -9,4 +9,6 @@ Once the data was relationally separated, and stored on different schemas in our
 This project was my first time ever working in the cloud. This presented many challenges such as just understanding what the cloud truly is, how to set up an environment for the cloud, [optimization for the cloud](https://www.cloudzero.com/blog/cloud-optimization#:~:text=Cloud%20optimization%20is%20the%20process,resources%20among%20different%20use%20cases.), among many other challenges.
 This project allowed me to learn how to effectively communicate with not only my team, but with other teams about issues that I was faced while developing the project.
 ## Screenshots
-[PENDING]
+
+![oracle2021_visualizer_1](https://user-images.githubusercontent.com/43681757/190419315-868f55cf-4115-4fea-acee-980b15431668.png)
+![oracle2021_visualizer_2](https://user-images.githubusercontent.com/43681757/190419319-880fe2fa-736d-4609-862a-74dd46868f9e.png)
